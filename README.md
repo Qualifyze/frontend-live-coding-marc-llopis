@@ -32,7 +32,6 @@ Create a film search page where the user can search for a film by title and see 
   - The code will be in TypeScript. If you're not familiar with it, we suggest you take a quick look at the basics. We do not demand guru-level skills, but a basic level to get going. We can cover gaps if you need help.
   - The framework will be **[React](https://react.dev/)** as provided in this repository
   - The testing framework will be **[Vitest](https://vitest.dev/)**
-  - For styling, we suggest you use **[Tailwind CSS](https://tailwindcss.com/)**. It's not mandatory, but it's a good way to speed up the process.
 - Some other tips. For obvious reasons, they're not mandatory, just a few suggestions to have your mind and body as fresh as possible (all of the suggestions are proven to improve the freshness of body and mind).
   - Sleep well the day before. This will help you make better decisions.
   - If you are used to doing sports/workout, we suggest you do your workout before or the day before. This is proven to lower stress levels and improve focus.
