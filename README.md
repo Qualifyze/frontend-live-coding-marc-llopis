@@ -36,3 +36,8 @@ Create a film search page where the user can search for a film by title and see 
   - Sleep well the day before. This will help you make better decisions.
   - If you are used to doing sports/workout, we suggest you do your workout before or the day before. This is proven to lower stress levels and improve focus.
   - Eat well before or the day before, as healthy as you can with no alcohol, no soft drinks, and with minimal ultra-processed food. This is proven to enhance concentration, energy levels, mood, and sleep quality, thereby boosting mental performance.
+
+
+## Personal README
+
+In order to review the challenge, please take a look at the [documentation](/ProjectDetails.md) I created. 

@@ -1,0 +1,20 @@
+@use 'variables' as *;
+
+// UI Breakpoints
+@mixin sm {
+  @media (min-width: 640px) { @content; }
+}
+
+// Focus Input
+@mixin focus-input($color: $color-teal) {
+  outline: none;
+  border-color: $color;
+  box-shadow: 0 0 0 3px rgba($color, 0.2);
+}
+
+// Truncate Text
+@mixin truncate {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
